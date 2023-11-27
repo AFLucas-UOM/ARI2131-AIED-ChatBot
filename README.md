@@ -8,7 +8,7 @@ AIED_Chatbot is a simple chatbot powered by OpenAI's GPT-3.5-turbo model. It eng
 
 - Python 3.x
 - OpenAI Account 
-- OpenAI API key (available [here](https://platform.openai.com/api-keys)
+- OpenAI API key (available [here](https://platform.openai.com/api-keys))
 
 ### Installation
 
