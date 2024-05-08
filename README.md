@@ -1,4 +1,4 @@
-# AIED_Chatbot
+# AIED Chatbot
 
 AIED_Chatbot is a simple chatbot powered by OpenAI's GPT-3.5-turbo model. It engages in conversations with users, responding to their prompts.
 
