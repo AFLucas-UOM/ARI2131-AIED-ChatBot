@@ -35,4 +35,10 @@ If you encounter any issues or errors, please check the following:
 - Verify that the OpenAI API key in the config.ini file is correct.
 
 ### Acknowledgments
-[OpenAI](https://platform.openai.com/docs/api-reference/introduction) for providing the GPT-3.5-turbo model.
+
+- This project was developed as part of an academic assignment. Unit: `ARI2131` at the `University of Malta`.
+- [OpenAI](https://platform.openai.com/docs/api-reference/introduction) for providing the GPT-3.5-turbo model.
+
+## Contact
+
+For any inquiries or feedback, please contact [Andrea Filiberto Lucas](mailto:andrealucasmalta@gmail.com).
