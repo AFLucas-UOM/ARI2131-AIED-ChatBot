@@ -15,7 +15,7 @@ AIED Chatbot is a simple chatbot powered by OpenAI's GPT-3.5-turbo model. It eng
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/AIED_Chatbot.git
+   git clone https://github.com/your-username/AIED_Chatbot.git](https://github.com/AFLucas-UOM/ARI2131-AIED-ChatBot)
    ```
 2. **Navigate to the project directory:**
 
